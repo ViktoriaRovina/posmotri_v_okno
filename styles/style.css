@@ -187,11 +187,6 @@ ol {
   width: 194px;
 }
 
-/* .search-form__submit-button:active {
-  text-decoration: none;
-  background-color: aqua;
-} */
-
 .content__details {
   display: flex;
   flex-direction: column;
@@ -219,10 +214,6 @@ ol {
   height: 298px;
   overflow-y: auto;
   margin-bottom: 1px;
-}
-
-.content__list::-webkit-scrollbar {
-  width: 0;
 }
 
 .content__list-item:has(.content__card-link_current) {
